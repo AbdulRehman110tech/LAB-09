@@ -1,7 +1,8 @@
 .first-div
 {
-    Width: 500px;
-     height : 500px;
+    Width: 200px;
+    color :red;
+     height : 200px;
      Background-color: blue;
      Border-width: 3px;
      Border-color: black;
@@ -22,10 +23,13 @@
 }
 .fav-para{
      color :purple;
-     Border-width: 3px;
+     Border-width: 5px;
      Border-color: black;
      Border-radius: 20%;
      Margin: 10px;
      Padding: 5px;
      text-align: center;
+}
+body{
+    background-color: aqua;
 }
