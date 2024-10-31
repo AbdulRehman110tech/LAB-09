@@ -1,9 +1,9 @@
 .first-div
 {
-    Width: 200px;
+    Width: 500px;
     color :red;
-     height : 200px;
-     Background-color: blue;
+     height : 150px;
+     Background-color:black;
      Border-width: 3px;
      Border-color: black;
      Border-radius: 20%;
@@ -14,22 +14,45 @@
 .normal-para{
     
      color :green;
-     Border-width: 3px;
+     Border-width: 10px;
+     background-color: black;
      Border-color: black;
-     Border-radius: 20%;
-     Margin: 10px;
-     Padding: 5px;
+     Border-radius: 0%;
+     Margin: 2px;
+     Padding: 3px;
      text-align: center;
 }
 .fav-para{
      color :purple;
      Border-width: 5px;
      Border-color: black;
-     Border-radius: 20%;
-     Margin: 10px;
-     Padding: 5px;
+     background-color: black;
+     Border-radius: 0%;
+     Margin: 2px;
+     Padding: 3px;
      text-align: center;
 }
 body{
     background-color: aqua;
 }
+.task-heading{
+     color :purple;
+     Border-width: 5px;
+     Border-color: black;
+     Border-radius: 0%;
+     Margin: 10px;
+     Padding: 5px;
+     text-align: center;
+     text-decoration: dashed;
+}
+/* Import Lobster font */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+/* Apply the font to <h2> headings */
+h2 {
+    font-family: 'Lobster', cursive;
+    font-size: 28px;
+    color: #333;
+}
+
+ 
