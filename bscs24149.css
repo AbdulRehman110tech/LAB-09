@@ -1,0 +1,36 @@
+.first-div
+{
+    Width: 500px;
+     height : 500px;
+     Background-color: blue;
+     Border-width: 3px;
+     Border-color: black;
+     Border-radius: 20%;
+     Margin: 10px;
+     Padding: 5px;
+     text-align: center;
+}
+.normal-para{
+    Width: 500px;
+     height : 500px;
+     Background-color: blue;
+     color :green;
+     Border-width: 3px;
+     Border-color: black;
+     Border-radius: 20%;
+     Margin: 10px;
+     Padding: 5px;
+     text-align: center;
+}
+.fav-para{
+    Width: 500px;
+     height : 500px;
+     Background-color: blue;
+     color :purple;
+     Border-width: 3px;
+     Border-color: black;
+     Border-radius: 20%;
+     Margin: 10px;
+     Padding: 5px;
+     text-align: center;
+}
