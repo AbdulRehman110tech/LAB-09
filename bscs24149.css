@@ -11,9 +11,7 @@
      text-align: center;
 }
 .normal-para{
-    Width: 500px;
-     height : 500px;
-     Background-color: blue;
+    
      color :green;
      Border-width: 3px;
      Border-color: black;
@@ -23,9 +21,6 @@
      text-align: center;
 }
 .fav-para{
-    Width: 500px;
-     height : 500px;
-     Background-color: blue;
      color :purple;
      Border-width: 3px;
      Border-color: black;
